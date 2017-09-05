@@ -5,3 +5,4 @@
  plt.ylabel('Promedio')
  plt.xlabel('semestres')
  plt.savefig('temp.png')
+plt.show('temp.py')
